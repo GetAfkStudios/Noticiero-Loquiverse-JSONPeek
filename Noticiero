@@ -1,0 +1,9 @@
+{
+  "noticias": [
+    {
+      "titulo": "¡Bienvenidos a la app!",
+      "contenido": "Esta es la primera noticia. ¡Espero que disfrutes la aplicación!",
+      "fecha": "2025-10-15"
+    }
+  ]
+}
